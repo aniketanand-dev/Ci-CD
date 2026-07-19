@@ -3,7 +3,6 @@ name: Learning
 # run this workflow when any push detect on repositry
 on:
   push:
-    main
 # A workflow which contains
 jobs:
   # this is Job ids
