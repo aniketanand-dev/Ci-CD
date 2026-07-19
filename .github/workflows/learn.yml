@@ -10,6 +10,6 @@ jobs:
      # this tells github ti create fresh ubuntu VM and run my Jobs there
     runs-on: ubuntu-latest
     steps:
-      -name: Say hello
-      run: echo "hello i am aniket"
+      - name: Say hello
+        run: echo "hello i am aniket"
 
